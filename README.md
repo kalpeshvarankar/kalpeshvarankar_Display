@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kalpesh!🤓</h1>
 <h3 align="left">I'm an aspiring AI and ML engineer from India</h3>
-<img align="right" alt="Coding" width="460" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
+<img align="right" alt="Coding" width="465" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshvarankar&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshvarankar" /> </p>
 
