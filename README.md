@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshvarankar&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshvarankar" /> </p>
 
-- 🌱 I’m currently pursuing **MSc in ML and AI**
+- 🌱 I’m currently pursuing **MSc in ML and AI🤖**
 
 - 📫 How to reach me **kalpeshvarankar@gmail.com**
 
