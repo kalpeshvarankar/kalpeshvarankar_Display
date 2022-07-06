@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://kalpeshvarankar.io)
+
 
 <h1 align="left">Hi 👋, I'm Kalpesh!🤓</h1>
 <h2 align="left">I'm an aspiring AI and ML engineer from India</h2>
