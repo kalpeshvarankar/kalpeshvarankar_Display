@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1V612XZDbHE0BAlyIk8NxtyqynGkCHvAE/view?usp=sharing)](https://kalpeshvarankar.io)
 <h1 align="left">Hi 👋, I'm Kalpesh!🤓</h1>
 <h2 align="left">I'm an aspiring AI and ML engineer from India</h2>
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
