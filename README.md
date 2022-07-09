@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kalpesh!🤓</h1>
 <h2 align="left">An aspiring AI and ML engineer from India</h3>
 
-<img align="right" alt="Coding" width="505" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
+<img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
 
 - 🎯 I’m currently pursuing **MSc in ML and AI 🤖**
 
