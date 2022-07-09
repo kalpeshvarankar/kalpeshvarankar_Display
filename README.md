@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
 
-- 🌱 I’m currently pursuing **MSc in ML and AI**
+- 🎯 I’m currently pursuing **MSc in ML and AI 🤖**
 
 - 📫 How to reach me **kalpeshvarankar@gmail.com**
 
