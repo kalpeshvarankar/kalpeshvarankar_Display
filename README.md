@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/F_6rHvHDvgAAAAAd/space-travel-time-travel.gif)](https://rishavchanda.io)
+<img align="centre" alt="Coding" width="1000" src="https://bestanimations.com/media/sci-fi/1550370609star-traveling-animated-gif-sci-fi-image.gif">
 
 <h1 align="left">Hi 👋, I'm Kalpesh!🤓</h1>
 <h2 align="left">An aspiring AI and ML engineer from India</h3>
