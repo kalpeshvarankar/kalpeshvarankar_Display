@@ -5,7 +5,7 @@
 
 - I’m currently pursuing- **MSc in ML and AI 🤖**
 
-- 📫 How to reach me- **kalpeshvarankar@gmail.com**
+- 📫 Reach me at- **kalpeshvarankar@gmail.com**
 
 - ⚡ Fun fact- **I love astronomy🌌☄️.**
 
