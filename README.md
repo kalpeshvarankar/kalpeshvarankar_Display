@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/kalpeshvarankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalpeshvarankar" height="30" width="40" /></a>
 <a href="https://instagram.com/the.schrodingers_cat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.schrodingers_cat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kalpesh varankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kalpesh varankar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kalpeshvarankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalpeshvarankar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kalpeshvarankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalpeshvarankar" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/x2W9jeAx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/x2W9jeAx" height="30" width="40" /></a>
 </p>
 
