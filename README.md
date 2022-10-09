@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/68f51b975b7723691912dea866897aac/tumblr_p0168gtRdI1runoqyo6_540.gifv">
 
-- I’m currently pursuing- **MSc in ML and AI 🤖**
+- I’m currently pursuing- **MSc in ML and AI**
 
 - 📫 Reach me at- **kalpeshvarankar@gmail.com**
 
-- ⚡ Fun fact- **I love astronomy🌌☄️.**
+- **I love astronomy🌌☄️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
