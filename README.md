@@ -8,7 +8,7 @@
     <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
   </ul>
   <p>
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/gitgif_.gif" width="740" height="370" style="margin-centre: 50px;" />
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="740" height="370" style="margin-centre: 50px;" />
   </p>
 </div>
 
