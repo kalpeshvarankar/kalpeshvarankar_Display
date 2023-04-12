@@ -35,8 +35,9 @@
 
 <h2 style="text-align: center; font-weight: bold;">Focus Area: Advanced Deep Learning</h2>
 
-<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="799" height="390" style="margin-centre: 50px;" />
-  </p>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="799" height="390" style="display: block; margin: 0 auto;">
 </div>
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpeshvarankar&show_icons=true&locale=en&layout=compact" alt="kalpeshvarankar" /></p>
