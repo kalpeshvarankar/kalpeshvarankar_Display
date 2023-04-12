@@ -2,7 +2,7 @@
 
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="500" height="270" />
+  <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" />
 </p>
 
 
