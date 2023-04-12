@@ -5,15 +5,12 @@
   <ul style="margin-right: 20px;">
     <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
     <li><strong>I love astronomy🌌☄️.</strong></li>
-    <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
+    <li>📫 Reach me at- <a href="mailto:kalpeshvarankar@gmail.com"><strong>kalpeshvarankar@gmail.com</strong></a></li>
   </ul>
   <p>
     <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/11111.gif" width="740" height="370" style="margin-centre: 50px;" />
   </p>
 </div>
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
