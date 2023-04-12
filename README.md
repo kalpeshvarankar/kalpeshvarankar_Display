@@ -1,5 +1,7 @@
-<h1 align="center">Hello, I'm Kalpesh Varankar</h1>
-<h3 align="center">An aspiring AI and ML engineer from India</h3>
+<h1 align="left">Hello, I'm Kalpesh Varankar</h1>
+<h3 align="left">An aspiring AI and ML engineer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshvarankar" alt="kalpeshvarankar" /></a> </p>
 
 - - I’m currently pursuing- **MSc in ML and AI**
 
