@@ -8,7 +8,7 @@
     <li>📫 Reach me at- <a href="mailto:kalpeshvarankar@gmail.com"><strong>kalpeshvarankar@gmail.com</strong></a></li>
   </ul>
   <p>
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/11111.gif" width="810" height="385" style="margin-centre: 50px;" />
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/11111.gif" width="740" height="370" style="margin-centre: 50px;" />
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 <div style="border-top: 1px solid black; width: 10%; margin: auto;"></div>
 
 <h2 style="text-align: center; font-weight: bold;">Focus Area: Advanced Deep Learning</h2>
-<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="810" height="405" style="margin-centre: 10px;" />
+<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="790" height="385" style="margin-centre: 10px;" />
   </p>
 </div>
 
