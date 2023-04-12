@@ -1,16 +1,16 @@
 <h1 align="left">Hello, I'm Kalpesh Varankar</h1>
 <h2 align="left">An aspiring AI and ML engineer from India</h2>
 
-<p align="left">
-  I’m currently pursuing- <strong>MSc in ML and AI</strong><br>
-  I love astronomy🌌☄️.<br>
-  📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong>
-</p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" />
-</p>
-
+<div style="display:flex;">
+  <p style="margin-right: 20px;">
+    I’m currently pursuing- <strong>MSc in ML and AI</strong><br>
+    <strong>I love astronomy🌌☄️.</strong><br>
+    📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" style="margin-right: 20px;" />
+  </p>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
