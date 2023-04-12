@@ -12,13 +12,6 @@
   </p>
 </div>
 
-
-  <div style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" />
-  </div>
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kalpesh-varankar-b78245235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalpesh-varankar-b78245235/" height="30" width="40" /></a>
