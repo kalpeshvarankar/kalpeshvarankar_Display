@@ -1,4 +1,4 @@
-<h1 align="left"><span style="font-size: 2em;">Hello, I'm Kalpesh Varankar</span> An aspiring AI and ML engineer from India</h1>
+<h1 align="left"><span style="font-size: 2em;">Hello, I'm Kalpesh Varankar,</span> an aspiring AI and ML engineer from India</h1>
 
 <ul style="margin-right: 20px;">
   <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
