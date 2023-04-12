@@ -1,22 +1,19 @@
-<h1 align="left"><span style="font-size: 2em;">Hello, I'm Kalpesh Varankar,</span> an aspiring AI and ML engineer from India</h1>
+<div style="display: flex; align-items: center;">
+  <div>
+    <h1>Hello, I'm Kalpesh Varankar</h1>
+    <h2>An aspiring AI and ML engineer from India</h2>
 
-<ul style="margin-right: 20px;">
-  <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
-  <li><strong>I love astronomy🌌☄️.</strong></li>
-  <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
-</ul>
+    <ul>
+      <li>I’m currently pursuing- MSc in ML and AI</li>
+      <li>I love astronomy🌌☄️.</li>
+      <li>📫 Reach me at- kalpeshvarankar@gmail.com</li>
+    </ul>
+  </div>
 
-
-  <ul style="margin: 0 20px;">
-    <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
-    <li><strong>I love astronomy🌌☄️.</strong></li>
-    <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
-  </ul>
-  <p>
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" style="margin-right: 20px;" />
-  </p>
+  <div style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" />
+  </div>
 </div>
-
 
 
 <h3 align="left">Connect with me:</h3>
