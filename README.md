@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<hr style="border-top: 0.5px solid #ccc; margin-bottom: 10px;">
+<hr style="border-top: 0.1px solid #ccc; margin-bottom: 10px;">
 <p align="left">
 <!-- your social media links here -->
 </p>
@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<hr style="border-top: 0.5px solid #ccc; margin-bottom: 10px;">
+<hr style="border-top: 0.1px solid #ccc; margin-bottom: 10px;">
 <p align="left">
 <!-- your social media links here -->
 </p>
