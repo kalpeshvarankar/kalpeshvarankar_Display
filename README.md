@@ -28,7 +28,7 @@
 
 
 <div style="text-align:center;">
-  <hr style="border: 0.1px solid black; margin-bottom: 20px;">
+  <hr style="border: 0.1px solid black; margin-bottom: 10px;">
 <hr>
 <h2 style="text-align: center; font-weight: bold;">Focus Area: Advanced Deep Learning</h2>
 
