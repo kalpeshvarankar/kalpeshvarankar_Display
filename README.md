@@ -35,7 +35,7 @@
 
 <h2 style="text-align: center; font-weight: bold;">Focus Area: Advanced Deep Learning</h2>
 
-<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="780" height="380" style="margin-centre: 50px;" />
+<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="799" height="390" style="margin-centre: 50px;" />
   </p>
 </div>
 
