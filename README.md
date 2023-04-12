@@ -2,15 +2,16 @@
 <h2 align="left">An aspiring AI and ML engineer from India</h2>
 
 <div style="display:flex;">
-  <p style="margin-right: 20px;">
-    I’m currently pursuing- <strong>MSc in ML and AI</strong><br>
-    <strong>I love astronomy🌌☄️.</strong><br>
-    📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong>
-  </p>
+  <ul style="margin-right: 20px;">
+    <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
+    <li><strong>I love astronomy🌌☄️.</strong></li>
+    <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
+  </ul>
   <p>
     <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" style="margin-right: 20px;" />
   </p>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
