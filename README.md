@@ -1,8 +1,9 @@
-<h1 align="left">Hello, I'm Kalpesh Varankar</h1>
-<h2 align="left">An aspiring AI and ML engineer from India</h2>
-
 <div style="display:flex;">
-  <ul style="margin-right: 20px;">
+  <div style="flex-direction:column;">
+    <h1>Hello, I'm Kalpesh Varankar</h1>
+    <h2 style="font-size:1.2rem;">An aspiring AI and ML engineer from India</h2>
+  </div>
+  <ul style="margin: 0 20px;">
     <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
     <li><strong>I love astronomy🌌☄️.</strong></li>
     <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
