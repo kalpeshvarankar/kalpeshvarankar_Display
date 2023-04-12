@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpeshvarankar&show_icons=true&locale=en&layout=compact" alt="kalpeshvarankar" /></p>
 
-<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="740" height="370" style="margin-centre: 50px;" />
+<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="780" height="380" style="margin-centre: 50px;" />
   </p>
 </div>
