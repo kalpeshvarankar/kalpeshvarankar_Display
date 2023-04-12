@@ -1,7 +1,9 @@
 <h1 align="left">Hello, I'm Kalpesh Varankar</h1> <h2 align="left">An aspiring AI and ML engineer from India</h3>
 
 
-<img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="600" height="270" style="transform: rotate(90deg);">
+<p align="right">
+  <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="270" height="550" />
+</p>
 
 
 
