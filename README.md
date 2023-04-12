@@ -1,7 +1,11 @@
-<div style="display:flex;">
-  <span style="font-size: 36px; margin-right: 10px;">Hello, I'm Kalpesh Varankar</span>
-  <span style="font-size: 24px;">An aspiring AI and ML engineer from India</span>
-</div>
+<h1 align="left"><span style="font-size: 2em;">Hello, I'm Kalpesh Varankar</span> An aspiring AI and ML engineer from India</h1>
+
+<ul style="margin-right: 20px;">
+  <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
+  <li><strong>I love astronomy🌌☄️.</strong></li>
+  <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
+</ul>
+
 
   <ul style="margin: 0 20px;">
     <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
