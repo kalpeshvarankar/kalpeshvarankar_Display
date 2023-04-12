@@ -2,7 +2,7 @@
 <h2 align="left">An aspiring AI and ML engineer from India</h2>
 
 <div style="display:flex;">
-  <ul style="margin-right: 20px;">
+  <ul style="margin-right: 50px;">
     <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
     <li><strong>I love astronomy🌌☄️.</strong></li>
     <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
