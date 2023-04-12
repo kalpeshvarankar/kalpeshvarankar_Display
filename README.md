@@ -16,8 +16,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div style="border-top: 1px solid black; width: 10%; margin: auto;"></div>
-
+<hr style="border-top: 0.5px solid #ccc; margin-bottom: 10px;">
+<p align="left">
+<!-- your social media links here -->
+</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/kalpesh-varankar-b78245235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://kaggle.com/kalpeshvarankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalpeshvarankar" height="30" width="40" /></a>
@@ -28,7 +30,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<hr style="border-top: 1px solid #ccc; margin-bottom: 20px;">
+<hr style="border-top: 0.5px solid #ccc; margin-bottom: 10px;">
 <p align="left">
 <!-- your social media links here -->
 </p>
