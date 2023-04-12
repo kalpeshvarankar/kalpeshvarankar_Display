@@ -7,11 +7,14 @@
     <li><strong>I love astronomy🌌☄️.</strong></li>
     <li>📫 Reach me at- <strong>kalpeshvarankar@gmail.com</strong></li>
   </ul>
-  <p>
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" style="margin-right: 50px;" />
-    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/11111.gif" width="480" height="270" style="margin-left: 50px;" />
-  </p>
+  <div style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/hhhh.gif" width="480" height="270" />
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/kalpeshvarankar/kalpeshvarankar/main/11111.gif" width="480" height="270" />
+  </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
