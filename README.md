@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Kalpesh Varankar</h1>
-<h2 align="left">I'm an aspiring AI and ML engineer from India</h2>
+<h2 align="left">I'm an aspiring AI and ML engineer</h2>
 
 <div style="display:flex;">
   <ul style="margin-right: 20px;">
