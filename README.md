@@ -4,7 +4,7 @@
 <div style="display:flex;">
   <ul style="margin-right: 20px;">
     <li>I’m currently pursuing- <strong>MSc in ML and AI</strong></li>
-    <li><strong>I love astronomy 🌌☄️</strong></li>
+    <li><strong>I am an Astrophile 🌌☄️</strong></li>
     <li>📫 Reach me at- <a href="mailto:kalpeshvarankar@gmail.com"><strong>kalpeshvarankar@gmail.com</strong></a></li>
   </ul>
   <p>
